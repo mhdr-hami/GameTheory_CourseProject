@@ -1,6 +1,6 @@
 # GameTheory_CourseProject
 
-There are 2 separated subprojects.
+There are 2 separate subprojects.
 
 ### Dawson Chess
 Implemented an intelligent program to win the game. (player vs player is also supported)
